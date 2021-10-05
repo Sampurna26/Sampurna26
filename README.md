@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm SAMPURNA MUKHERJEE</h1>
 <h3 align="center">Just a learner and enthusiast</h3>
 
-- 📫 How to reach me https://github.com/Sampurna26
+- 📫 How to reach me <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/SM-2102 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dg_2103" height="30" width="40" /></a>
+</p>
 
 - ⚡ Fun fact **It's never too late to start!**
 
