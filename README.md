@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SAMPURNA MUKHERJEE</h1>
 <h3 align="center">Just a learner and enthusiast</h3>
 
-- 📫 How to reach me https://github.com/SM-2102
+- 📫 How to reach me https://github.com/Sampurna26
 
 - ⚡ Fun fact **It's never too late to start!**
 
